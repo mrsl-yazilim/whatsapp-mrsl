@@ -1,6 +1,6 @@
 
 # whatsapp-mrsl ⚡
->> [Baileys](https://github.com/adiwajshing/Baileys) için basit bir NodeJS Projesi. 
+> [Baileys](https://github.com/adiwajshing/Baileys) için basit bir NodeJS Projesi. 
 
 • [Neden bunu kullanmalısın?](https://github.com/mrsl-yazilim/whatsapp-mrsl/blob/main/README.md#whyuse) 
 • [S.S.S.](https://github.com/mrsl-yazilim/whatsapp-mrsl/blob/main/README.md#faq) 
