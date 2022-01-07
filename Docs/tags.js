@@ -1,15 +1,15 @@
 module.exports = {
     tags:[
         {
-            "name": "Instance",
-            "description": "Mesajlaşma fonksiyonları"
+            "name": "Cihaz Fonksiyonlar",
+            "description": "Cihaz fonksiyonları"
         },
         {
-            "name": "SendMessagesController",
+            "name": "Mesajlaşma Fonksiyonlar",
             "description": "Mesaj gönderme fonksiyonları"
         },
         {
-            "name": "GroupController",
+            "name": "Grup Fonksiyonları",
             "description": "Grupların yönetimiyle ilgili fonksiyonlar"
         },
     
